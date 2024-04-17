@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "1679",
+      "name": "abcd",
+      "email": "abcd@gmail.com",
+      "password": "5469"
+    },
+    {
+      "id": "079f",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
